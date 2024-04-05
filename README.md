@@ -1,3 +1,3 @@
-# This is Hanzi Liu personal website. 
-# I appreciate it greatly you can visit here.
-# In this website, optical imaging konwledges and optical physics technique can be toturialed. so keep working hard! 
+# Welcome to Hanzi Liu's personal website.
+# Thank you very much for visiting.
+On this website, you can learn about optical imaging knowledge and optical physics techniques, so keep up the hard work!
